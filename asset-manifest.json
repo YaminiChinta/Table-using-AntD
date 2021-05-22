@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Table-using-AntD/static/css/main.685d95c4.chunk.css",
+    "main.js": "/Table-using-AntD/static/js/main.d6b43d7e.chunk.js",
+    "main.js.map": "/Table-using-AntD/static/js/main.d6b43d7e.chunk.js.map",
+    "runtime-main.js": "/Table-using-AntD/static/js/runtime-main.9c24a755.js",
+    "runtime-main.js.map": "/Table-using-AntD/static/js/runtime-main.9c24a755.js.map",
+    "static/css/2.00bb4513.chunk.css": "/Table-using-AntD/static/css/2.00bb4513.chunk.css",
+    "static/js/2.2e43dad8.chunk.js": "/Table-using-AntD/static/js/2.2e43dad8.chunk.js",
+    "static/js/2.2e43dad8.chunk.js.map": "/Table-using-AntD/static/js/2.2e43dad8.chunk.js.map",
+    "static/js/3.90fb16a2.chunk.js": "/Table-using-AntD/static/js/3.90fb16a2.chunk.js",
+    "static/js/3.90fb16a2.chunk.js.map": "/Table-using-AntD/static/js/3.90fb16a2.chunk.js.map",
+    "index.html": "/Table-using-AntD/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/Table-using-AntD/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.685d95c4.chunk.css.map": "/Table-using-AntD/static/css/main.685d95c4.chunk.css.map",
+    "static/js/2.2e43dad8.chunk.js.LICENSE.txt": "/Table-using-AntD/static/js/2.2e43dad8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Table-using-AntD/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c24a755.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.2e43dad8.chunk.js",
+    "static/css/main.685d95c4.chunk.css",
+    "static/js/main.d6b43d7e.chunk.js"
+  ]
+}
